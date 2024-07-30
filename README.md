@@ -15,6 +15,9 @@ Resources for Evaluating Open Large Language Models
 
 ## Performance Benchmarks
 
+For creative writing
+https://eqbench.com/creative_writing.html
+
 ### Links to leaderboards
 
 ### Openness Benchmarks
